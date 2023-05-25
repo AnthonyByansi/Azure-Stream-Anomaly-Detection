@@ -29,3 +29,4 @@ To get started with this project, follow the steps below:
 
    ```shell
    git clone 
+2. Install the required dependencies:
