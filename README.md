@@ -28,5 +28,5 @@ To get started with this project, follow the steps below:
 1. Clone the repository:
 
    ```shell
-   git clone 
+   git clone https://github.com/AnthonyByansi/Azure-Stream-Anomaly-Detection.git
 2. Install the required dependencies:
