@@ -29,4 +29,5 @@ To get started with this project, follow the steps below:
 
    ```shell
    git clone https://github.com/AnthonyByansi/Azure-Stream-Anomaly-Detection.git
-2. Install the required dependencies:
+2. Install the required dependencies: pip install -r docs/requirements.txt
+
