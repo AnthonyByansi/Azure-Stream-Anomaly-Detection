@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/travis/{username}/{repository}.svg)](https://travis-ci.org/{username}/{repository})
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-370/)
+[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/release/python-31011/)
 
 > Real-time Anomaly Detection: Building a system that monitors streaming data from various sources and uses Azure Stream Analytics to detect anomalies in real-time.
 
